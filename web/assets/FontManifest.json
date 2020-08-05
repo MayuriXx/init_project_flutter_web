@@ -1,0 +1,26 @@
+[
+  {
+    "fonts": [
+      {
+        "asset": "fonts/MaterialIcons-Regular.ttf"
+      }
+    ],
+    "family": "MaterialIcons"
+  },
+  {
+    "family": "GoogleSans",
+    "fonts": [
+      {
+        "asset": "/fonts/GoogleSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "GalleryIcons",
+    "fonts": [
+      {
+        "asset": "/fonts/GalleryIcons.ttf"
+      }
+    ]
+  }
+]
